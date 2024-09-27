@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SUBRAHMANYAKR1
+- 👋 Hi, I’m @SUBRAHMANYA K R
 - 👀 I’m interested in Softare Development .
 - 🌱 I’m currently learning web development in MERN Stack
 - 💞️ I’m looking to collaborate
